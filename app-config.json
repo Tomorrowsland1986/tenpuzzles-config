@@ -16,7 +16,7 @@
     "mode": "PUZZLE",
     "puzzle": {
       "levels": 10,
-      "grid": { "rows": 4, "cols": 4 },
+      "grid": { "rows": 3, "cols": 3 },
       "secondsPerLevel": 30
     },
     "fallbackUrl": "https://www.google.com"
